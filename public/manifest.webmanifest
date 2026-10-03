@@ -1,0 +1,13 @@
+{
+  "id": "/",
+  "name": "Flight Detector",
+  "short_name": "Flight Detector",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1D2C",
+  "theme_color": "#0B1D2C",
+  "icons": [{ "src": "/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }]
+}
